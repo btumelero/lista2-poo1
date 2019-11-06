@@ -1,2 +1,2 @@
 # lista2-poo1
-Segunda lista de exercícios de Programação Orientada a Objetos 1
+Primeira parte da segunda lista de exercícios de Programação Orientada a Objetos 1
